@@ -7,7 +7,7 @@ package examenrecuperacionets.ut5;
 
 /**
  *
- * @author 1-DAM-T (2)
+ * @author David Naranjo García
  */
 public class Ordenador {
     private String cpu;
