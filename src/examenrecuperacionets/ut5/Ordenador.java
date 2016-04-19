@@ -10,22 +10,22 @@ package examenrecuperacionets.ut5;
  * @author 1-DAM-T (2)
  */
 public class Ordenador {
-    private String procesador;
+    private String cpu;
     private String memoria;
     private String resolucionPantalla;
 
     /**
      * @return the procesador
      */
-    public String getProcesador() {
-        return procesador;
+    public String getCpu() {
+        return cpu;
     }
 
     /**
-     * @param procesador the procesador to set
+     * @param cpu the procesador to set
      */
-    public void setProcesador(String procesador) {
-        this.procesador = procesador;
+    public void setCpu(String cpu) {
+        this.cpu = cpu;
     }
 
     /**
