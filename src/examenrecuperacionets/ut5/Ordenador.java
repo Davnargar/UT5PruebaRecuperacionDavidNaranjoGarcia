@@ -11,7 +11,7 @@ package examenrecuperacionets.ut5;
  */
 public class Ordenador {
     private String cpu;
-    private String memoria;
+    private String ram;
     private String resolucionPantalla;
 
     /**
@@ -31,15 +31,15 @@ public class Ordenador {
     /**
      * @return the memoria
      */
-    public String getMemoria() {
-        return memoria;
+    public String getRam() {
+        return ram;
     }
 
     /**
-     * @param memoria the memoria to set
+     * @param ram the memoria to set
      */
-    public void setMemoria(String memoria) {
-        this.memoria = memoria;
+    public void setRam(String ram) {
+        this.ram = ram;
     }
 
     /**
