@@ -10,8 +10,11 @@ package examenrecuperacionets.ut5;
  * @author 1-DAM-T (2)
  */
 public class Ordenador {
+    /** parametro privado procesador */
     private String procesador;
+    /** parametro privado memoria */
     private String memoria;
+    /** parametro privado resolucionPantalla*/
     private String resolucionPantalla;
 
     /**
